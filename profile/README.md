@@ -1,7 +1,7 @@
 # Red Giant Trapcode Particular Mac
 
 <p align="center">
-  <img src="https://www.macfk.com/wp-content/uploads/2024/05/Magic-Bullet-Suite-1.png" width="200" alt="Red Giant Trapcode Particular icon"/>
+  <img src="https://developers.maxon.net/src/media/maxon.png" width="200" alt="Red Giant Trapcode Particular icon"/>
 </p>
 
 <p align="center">
